@@ -99,7 +99,7 @@ control-prev-icon {
 #last-week:hover,
 #this-week:hover,
 #upcoming:hover,
-#this-week {
+#this-week:hover {
     background-color: #c914dfd1;
     color: #fff;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
